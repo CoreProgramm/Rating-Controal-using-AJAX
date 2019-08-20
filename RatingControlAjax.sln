@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatingControlAjax", "RatingControlAjax\RatingControlAjax.csproj", "{C6C1EE64-B605-497C-9A69-E282A2B853FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C1EE64-B605-497C-9A69-E282A2B853FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C1EE64-B605-497C-9A69-E282A2B853FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C1EE64-B605-497C-9A69-E282A2B853FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C1EE64-B605-497C-9A69-E282A2B853FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5040B18-4C53-482B-815D-171BD1062450}
+	EndGlobalSection
+EndGlobal
